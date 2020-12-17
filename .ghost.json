@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://gatsby.rmu.ac.th",
+    "contentApiKey": "f8b7f69aa9bda2f03554b1a81c"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://gatsby.rmu.ac.th",
+    "contentApiKey": "f8b7f69aa9bda2f03554b1a81c"
   }
 }
